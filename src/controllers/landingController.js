@@ -15,7 +15,7 @@ let landingController = {
             Alumno:                 'Federico Schlatter',
             Profesores:             'Uriel Sosa y Sebastian Rellihan',
             Fecha:                  '22/09/21',
-            Github:                 '...'
+            Github:                 'https://github.com/Flappersch/trabajo_adicional_DH.git'
 
         });
     }   
