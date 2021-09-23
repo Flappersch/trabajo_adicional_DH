@@ -114,8 +114,7 @@ let mainController = {
             },
         })
         .then(genero => {
-            console.log(genero),
-            res.status(200).json({
+                res.status(200).json({
                 title: 'Listado de canciones que coinciden con el género seleccionado',
                 status: 200,
                 genero
